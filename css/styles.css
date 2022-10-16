@@ -390,6 +390,7 @@ a {
   /* material shadow v1 */
   border-radius: 0px 0px 4px 4px;
   width: 370px;
+  margin-bottom: 30px;
 }
 .circular-container-port:hover{
   cursor: pointer;
